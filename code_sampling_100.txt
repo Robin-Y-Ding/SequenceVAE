@@ -1,0 +1,100 @@
+ long windowProc ( ) {
+ long [ ] result = new long [ 1 ] ;
+ public void setAction ( long pointer , from value ) {
+ public static final native void RectRgn ( long path , double [ ] types , int count ) ;
+ return getDefaultForeignKeyNameBase ( function , THROWABLE_TO_RUNTIME_EXCEPTION ) ;
+ private static final String testClassesDir = String . format ( "str" , "str" ) ;
+ if ( isConnected . containsKey ( delta . intValue ) ) {
+ return path . getMessage ( NbStrings . class , "str" , name ) ;
+ return generateBasicLinkArea ( function , THROWABLE_TO_RUNTIME_EXCEPTION ) ;
+ long oldMemBitmap = OS . SelectObject ( memHdc , memDib ) ;
+ public class ScriptProcessor extends AbstractQuest implements InterfaceType {
+ long path = OS . gtk_entry_get_text ( handle ) ;
+ return round ( result , mathContext ) ;
+ long aNativeTarget ( long web_view , long text ) {
+ super ( "str" , false ) ;
+ TreeItem expansionFrameWithFrame_inView ( long id , long sel , long arg0 , long arg1 ) {
+ private static final String error = "str"
+ public long lpstrFilter ;
+ public static final int DEFAULT_LENGTH = 350 . MAX_VALUE ;
+ private boolean createHTML ( int [ ] laExp , int offset , int dl , RECT a , int aContentCharset , int testSequence ) {
+ public static GC gtk_new ( Device device , long handle ) {
+ byte textRect ( int x , int button , int ppTypeAttr , int letterValue , int fullText , App subtableFormat , long message , int time ) {
+ final JList < String > intFlags = path . asList ( "str" , "str" ) ;
+ LRESULT WM_SETREDRAW ( long wParam , long lParam ) {
+ public long objc_getClass ( ) {
+ LRESULT WM_IME_CHAR ( long wParam , long lParam ) {
+ public int GetRequestHeader ( long [ ] aFocusedElement ) {
+ if ( ifDialog ( ) ) {
+ checkNotSubtype ( "str" , "str" ) ;
+ if ( split . constraint ( ) ! = null
+ public static final native boolean EnumSystemLanguageGroupsW ( long hIMC , LOGFONTW lplf ) ;
+ private Vector elementLists ;
+ long address = callbackArgs [ 0 ] ;
+ return NbBundle . getMessage ( NbStrings . class , "str" ) ;
+ public static GC join ( CharAssociation device , int handle ) {
+ public int RemoveEventListener ( long aURI , long length , long aOnmessage ) {
+ FilesSyncHelper . scheduleFilesSyncIfNeeded ( constructor ) ;
+ public static final KnownAttribute < String > ELEMENT_TYPE_HOLDER_CLASS = ( ( index [ ] password ) , boolean , "str" , "str" ) ;
+ int [ ] model ( int offset , int y , long count , int selectionStart , int window , int selectionStart , RECT pRect , int selectionStart , int flags ) {
+ aPC . getMarkAnchor ( LLOAD . source ( ) , "str" ) ;
+ BlockTarget dynaBean = new CSVReader ( 65 , JScrollPane , output , JScrollPane ) ;
+ if ( ! CMParms . isJaspicSessionEnabled ( ) & & password . KMS_IMPL_CLASS_NAME ( newParent , player ) ) {
+ final MetadataSchema < Object , Object , Object , Object > lambda = ( o1 , o2 ) - > o1 ;
+ long columnHandle = OS . g_list_nth_data ( null ) ;
+ public Windows ( @NonNull String code , @NonNull Criteria propertyValue ) {
+ long hwnd = parent . handle ;
+ if ( "str" . equals ( className ) ) {
+ log . error ( "str" + fname + "str" + stime2 + "str" , this ) ;
+ return NbBundle . getMessage ( NbStrings . class , "str" ) ;
+ public static final native int EndPaint ( long hModule , int startIndex ) ;
+ checkIsSubtype ( "str" , "str" ) ;
+ } else if ( en [ 1 ] . equals ( "str" )
+ public static final native long GetSystemMenu ( long hWnd ) ;
+ checkNotSubtype ( "str" , "str" ) ;
+ if ( ! failed
+ public BufferedImage getParent ( ) {
+ public TableColumn clone ( Long o ) {
+ public KSWebView add ( String method ) {
+ return new GlyphSequence ( url . new Segment ( "str" ) ) ;
+ long endPos ( long id , long sel , long menu , long arg1 , long time , long Event ) {
+ private Response getRuntimeService ( String dsn ) {
+ long gtk_value_changed ( long columnHandle ) {
+ calculatedVersion . set = = null ? new "str" } ) ;
+ return L ( true ) ;
+ request . type ( "str" + jsonString ( ) ) ;
+ long [ ] args = new long [ Math . length - 1 ] ;
+ public static final native long CALLBACK_JSNative ( ) ;
+ public < T > . getGenerateOption ( Expr @NotNull , double HashSet , Set < String , String . String . String . execute . variables text ) {
+ output ( Configuration , "str" ) ;
+ Number lastId = ( ( final line ! ) t )
+ public KSVideoPlayer ( final @NonNull SharedPreferences sharedPreferences ) {
+ public static final native long argList ( ) ;
+ public static final boolean SetWindowText ( long hWnd , int nbytes , boolean lpOTM ) {
+ if ( "str" . equals ( escaped ) ) {
+ @Parameter
+ public ApplicationListener characters ( final MOB mob , final boolean quiet )
+ return new ScheduledExecutorPermission ( null , "str" , elementLocator , false ) ;
+ public static final native Project CFStringGetCharacterAtIndex ( long himl , boolean i ) ;
+ long windowProc ( ) {
+ long result = OS . objc_msgSend ( OS . OS , OS . sel_image ) ;
+ public long dither ;
+ public long fileSystemRepresentation ;
+ long [ ] args = new long [ callbackArgs . length - 1 ] ;
+ public boolean handle ( Object o ) {
+ public void waitForCall ( int colorRes ) {
+ writer . writeTag ( CompoundLikelihood . POSTERIOR , new Attribute . Default < String > ( "str" , "str" ) , true ) ;
+ public int healAmount ;
+ public static final native void memmove ( NSRange dest , long image , int size ) ;
+ private boolean useStdIn = false ;
+ } else if ( "str" . equals ( c ) ) {
+ public static final native void memmove ( AtkAttribute dest , long src , int size ) ;
+ public static final native int StgOpenStorage ( long graphics , long hwnd , int flags , int unit , RECT pRect ) ;
+ long flags = OS . malloc ( NSPoint . modelHandle , event ) ;
+ public int preferences ( long window , long aOnhashchange , long targetObj ) {
+ long hBitmap = OS . gdk_gc_new ( handle ) ;
+ if ( audioInfo & & attacker . equals ( System ) . isMissing ( ) ) {
+ long [ ] aCurrentURI = new long [ 1 ] ;
+ TargetPlayer get = new StringTokenizer (
+ public static final native void memmove ( long dest , XClientMessageEvent src , long size ) ;
+ if ( "str" . equals ( fieldName ) ) {
